@@ -1,0 +1,1 @@
+Golang installation and presenter [installation](https://halyph.com/blog/2015/05/18/golang-presentation-tool.html) and format of [.slide] file (https://godoc.org/golang.org/x/tools/present). 
